@@ -3,7 +3,8 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="public/screenshot.png" alt="Screenshot" width="800"/>
+  <img src="public/screenshot.png" alt="Screenshot" width="100%"/>
+  <img src="public/screenshot-2.png" alt="Screenshot" width="100%"/>
 </div>
 
 ## ✨ Features
