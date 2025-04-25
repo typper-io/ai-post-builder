@@ -6,6 +6,7 @@
   [![Next.js](https://img.shields.io/badge/Next.js-13.5.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.5-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
+  [![Matsu Theme](https://img.shields.io/badge/Matsu_Theme-1.0.0-FF6B6B?style=for-the-badge)](https://matsu-theme.vercel.app/)
 </div>
 
 ## 📸 Screenshots
@@ -27,6 +28,7 @@
 - **Framework:** Next.js 13.5.4
 - **Language:** TypeScript 5.2.2
 - **Styling:** Tailwind CSS 3.3.5
+- **Theme:** [Matsu Theme](https://matsu-theme.vercel.app/)
 - **State Management:** React Context
 - **Forms:** React Hook Form
 - **Validation:** Zod
@@ -73,5 +75,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/typper-io">Your Name</a></p>
+  <p>Built with ❤️ by <a href="https://github.com/typper-io">Typper</a></p>
 </div>
