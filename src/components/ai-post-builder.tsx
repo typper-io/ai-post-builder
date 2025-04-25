@@ -217,7 +217,7 @@ export default function AIPostBuilder() {
 
         DON'T INCLUDE HASHTAGS IN THE CAPTION.
 
-        The image description should be in english.
+        The image description is the description of the image of the post, it should be in english. If need to have texts in the image, use the image description to generate the texts.
       `;
 
       const completion = await client.chat.completions.create({
